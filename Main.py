@@ -9,7 +9,7 @@ def sortear_palavra():
     palavra = ""
     dica = ""
     palavras = {}
-    with open("C:\WF\Estudo\Python\PythonBrasil\meu01.txt", "r", encoding="utf-8") as arq:
+    with open("meu01.txt", "r", encoding="utf-8") as arq:
         while (True):
             dados = arq.readline()
             if (dados != ""):
