@@ -1,0 +1,7 @@
+macaco Animal
+girafa Animal
+yasmin Animal
+tiago Animal
+schrodinger Gato
+beterraba Comida
+pizza Comida
